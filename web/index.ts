@@ -146,14 +146,13 @@ const markdownOptions: DropdownOption[] = [
 
 const imageLightOptions: DropdownOption[] = [
     { text: 'Newspace', value: 'https://cdn-hgbij.nitrocdn.com/WIrilmVTdnvHLqfFjdWBdUfDMEjOaSoD/assets/static/optimized/wp-content/uploads/2022/01/85fc9d13629cda65949e79caf49e7aa2.logo-new-space.png' },
-
     { text: 'Next.js', value: 'https://assets.vercel.com/image/upload/front/assets/design/nextjs-black-logo.svg' },
     { text: 'Hyper', value: 'https://assets.vercel.com/image/upload/front/assets/design/hyper-color-logo.svg' },
 ];
 
 const imageDarkOptions: DropdownOption[] = [
 
-    { text: 'Vercel', value: 'https://cdn-hgbij.nitrocdn.com/WIrilmVTdnvHLqfFjdWBdUfDMEjOaSoD/assets/static/optimized/wp-content/uploads/2022/01/85fc9d13629cda65949e79caf49e7aa2.logo-new-space.png' },
+    { text: 'Newspace', value: 'https://cdn-hgbij.nitrocdn.com/WIrilmVTdnvHLqfFjdWBdUfDMEjOaSoD/assets/static/optimized/wp-content/uploads/2022/01/85fc9d13629cda65949e79caf49e7aa2.logo-new-space.png' },
     { text: 'Next.js', value: 'https://assets.vercel.com/image/upload/front/assets/design/nextjs-white-logo.svg' },
     { text: 'Bradesco', value: 'https://banco.bradesco/assets/classic/img/logo-mobile.png' },
     { text: 'Hyper', value: 'https://assets.vercel.com/image/upload/front/assets/design/hyper-bw-logo.svg' },
