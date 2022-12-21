@@ -1,0 +1,8 @@
+.now
+.vercel
+node_modules
+api/dist
+public/dist
+.yarn
+.idea
+
